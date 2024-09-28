@@ -4,16 +4,16 @@
   "icons": [
     {
       "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
+      "sizes": "100x100 32x32 24x24 160x160",
       "type": "image/x-icon"
     },
     {
-      "src": "Afot.png",
+      "src": "WhatsApp Image 2024-09-24 at 11.43.07_5095e30b.jpg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "Afot.png",
+      "src": "WhatsApp Image 2024-09-24 at 11.43.07_5095e30b.jpg",
       "type": "image/png",
       "sizes": "512x512"
     }
