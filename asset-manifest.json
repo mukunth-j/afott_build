@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.ab4a5b63.css",
-    "main.js": "/static/js/main.f9d3ea0d.js",
+    "main.css": "/static/css/main.52798eda.css",
+    "main.js": "/static/js/main.f49ec148.js",
     "static/media/output-onlinegiftools.gif": "/static/media/output-onlinegiftools.bfcfefe805f125f667e6.gif",
+    "static/media/preloader.gif": "/static/media/preloader.1b4f8c1d5d458797b487.gif",
     "static/media/Jhon.png": "/static/media/Jhon.db06eb4fbc922b1560e0.png",
     "static/media/Gopipng": "/static/media/GopiD310B45Ca11862F0E4A014.d310b45ca11862f0e4a0.png",
     "static/media/Krishna.jpeg": "/static/media/Krishna.8cf7e83c487acae042f8.jpeg",
@@ -34,11 +35,11 @@
     "index.html": "/index.html",
     "static/media/x-menu.svg": "/static/media/x-menu.f5ffc2c413ebe4fff8f8223885484857.svg",
     "static/media/menu.svg": "/static/media/menu.cfe85490cb9be11322e5b5c47c948564.svg",
-    "main.ab4a5b63.css.map": "/static/css/main.ab4a5b63.css.map",
-    "main.f9d3ea0d.js.map": "/static/js/main.f9d3ea0d.js.map"
+    "main.52798eda.css.map": "/static/css/main.52798eda.css.map",
+    "main.f49ec148.js.map": "/static/js/main.f49ec148.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab4a5b63.css",
-    "static/js/main.f9d3ea0d.js"
+    "static/css/main.52798eda.css",
+    "static/js/main.f49ec148.js"
   ]
 }
