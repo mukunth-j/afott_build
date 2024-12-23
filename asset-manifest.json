@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ab4a5b63.css",
-    "main.js": "/static/js/main.e99d1d68.js",
+    "main.js": "/static/js/main.d59ab19c.js",
     "static/media/output-onlinegiftools.gif": "/static/media/output-onlinegiftools.bfcfefe805f125f667e6.gif",
     "static/media/Jhon.png": "/static/media/Jhon.db06eb4fbc922b1560e0.png",
     "static/media/Gopipng": "/static/media/GopiD310B45Ca11862F0E4A014.d310b45ca11862f0e4a0.png",
@@ -9,6 +9,7 @@
     "static/media/mukesh.jpeg": "/static/media/mukesh.472e3bfb3e85b7537ce6.jpeg",
     "static/media/ReactRemovebgPreviewpng": "/static/media/ReactRemovebgPreview5D14F2A5D078088221A31.5d14f2a5d078088221a3.png",
     "static/media/Gowtham.png": "/static/media/Gowtham.d722c7577884214ace71.png",
+    "static/media/Mukunth.png": "/static/media/Mukunth.3d94b14cfe1fccce8e1e.png",
     "static/media/LinuxRemovebgPreviewpng": "/static/media/LinuxRemovebgPreview94B18C8Eafbc49Acac9B2.94b18c8eafbc49acac9b.png",
     "static/media/PhpRemovebgPreviewpng": "/static/media/PhpRemovebgPreviewF6B34B61Cf9D3F8047292.f6b34b61cf9d3f804729.png",
     "static/media/HtmlRemovebgPreviewpng": "/static/media/HtmlRemovebgPreview04977Af14596Deb4E9Cc2.04977af14596deb4e9cc.png",
@@ -34,10 +35,10 @@
     "static/media/x-menu.svg": "/static/media/x-menu.f5ffc2c413ebe4fff8f8223885484857.svg",
     "static/media/menu.svg": "/static/media/menu.cfe85490cb9be11322e5b5c47c948564.svg",
     "main.ab4a5b63.css.map": "/static/css/main.ab4a5b63.css.map",
-    "main.e99d1d68.js.map": "/static/js/main.e99d1d68.js.map"
+    "main.d59ab19c.js.map": "/static/js/main.d59ab19c.js.map"
   },
   "entrypoints": [
     "static/css/main.ab4a5b63.css",
-    "static/js/main.e99d1d68.js"
+    "static/js/main.d59ab19c.js"
   ]
 }
