@@ -1,6 +1,6 @@
 {
   "short_name": "AFOT",
-  "name": "AFOT",
+  "name": "All For One Tech",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,12 +8,12 @@
       "type": "image/x-icon"
     },
     {
-      "src": "public/google.jpg",
+      "src": "google.jpg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "public/google.jpg",
+      "src": "google.jpg",
       "type": "image/png",
       "sizes": "512x512"
     }
