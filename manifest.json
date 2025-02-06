@@ -3,19 +3,14 @@
   "name": "All For One Tech",
   "icons": [
     {
-      "src": "favicon.ico",
-      "sizes": "100x100 32x32 24x24 160x160",
-      "type": "image/x-icon"
+      "src": "/google.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
     },
     {
-      "src": "google.jpg",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "google.jpg",
-      "type": "image/png",
-      "sizes": "512x512"
+      "src": "/google.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ],
   "start_url": ".",
